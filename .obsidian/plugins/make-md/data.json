@@ -33,8 +33,7 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//Excalidraw"
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

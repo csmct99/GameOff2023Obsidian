@@ -34,6 +34,7 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
+    "//Ideas",
     "//Ideas"
   ],
   "expandFolderOnClick": true,

@@ -11,7 +11,6 @@ Challenges we might run into:
 	AI battles, Animations, most of the shit we aren't well versed in ofc.
 	We might be able to deal with most artistic problems by having the artstyle look like Realm of the Mad God or something.
 
-<<<<<<< HEAD
 _____________________________________________________________
 
 Random ideas:

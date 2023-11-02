@@ -1,6 +1,110 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {
+        "Status": {
+          "options": [
+            "Open",
+            "Closed",
+            "WIP",
+            "On Hold"
+          ]
+        },
+        "Assignee": {
+          "options": [
+            "Connor",
+            "Noah",
+            "Nathan"
+          ]
+        }
+      },
+      "defaultName": "New Task",
+      "templates": [
+        "Project Management/TemplateTask.md"
+      ],
+      "excludedNotes": [
+        "Project Management/TemplateTask.md"
+      ],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Project Management/Tasks",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "Priority",
+              "Status",
+              "path"
+            ],
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "28f096f9-402a-476b-9b7d-fcdb106c1800",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "Status",
+            "columns": {
+              "Open": {
+                "weight": 0
+              },
+              "WIP": {
+                "weight": 1
+              },
+              "On Hold": {
+                "weight": 2
+              },
+              "Closed": {
+                "weight": 3
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "Status",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "a98a2f62-6122-4ddb-ac1a-87c6cd4fb5d1",
+          "name": "Kanban",
+          "type": "board"
+        }
+      ],
+      "id": "56050658-b9a5-46bc-9768-c9db712bab9c",
+      "name": "Management"
+    }
+  ],
   "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,

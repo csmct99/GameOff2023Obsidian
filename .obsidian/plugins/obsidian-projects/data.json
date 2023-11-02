@@ -65,7 +65,21 @@
         },
         {
           "config": {
-            "groupByField": "Status"
+            "groupByField": "Status",
+            "columns": {
+              "Open": {
+                "weight": 0
+              },
+              "WIP": {
+                "weight": 1
+              },
+              "On Hold": {
+                "weight": 2
+              },
+              "Closed": {
+                "weight": 3
+              }
+            }
           },
           "filter": {
             "conditions": []
@@ -76,7 +90,7 @@
           "sort": {
             "criteria": [
               {
-                "field": "name",
+                "field": "Status",
                 "order": "asc",
                 "enabled": true
               }

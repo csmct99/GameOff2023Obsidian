@@ -7,7 +7,6 @@ Game off is a Github hosted event
 
 
 
-
 ---
 # Rules:
 !![[Jam Rules]]

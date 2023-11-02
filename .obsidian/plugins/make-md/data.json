@@ -34,7 +34,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Excalidraw"
+    "//Excalidraw",
+    "//Ideas"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

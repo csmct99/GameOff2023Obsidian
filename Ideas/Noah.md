@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f631
+---
 Name: Powerscale
 Superhero/villain mangement game where you hire lame heroes with basic abilities and pit them off against other heroes/villans. Improving and giving them powers over time.
 	Inspired by Deathbattle youtube videos, The Boys, Punch Club 1 & 2

@@ -11,8 +11,12 @@
             "id": "1a14d03ac04d92fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "This is a test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "This is a test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "This is a test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "This is a test.md"
+              }
             }
           }
         ]
@@ -152,10 +160,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a14d03ac04d92fb",
+  "active": "eb8b30ac084b1bfe",
   "lastOpenFiles": [
-    "This is a test.md",
     "Excalidraw/Drawing 2023-11-02 13.09.37.excalidraw.md",
+    "This is a test.md",
     "Excalidraw"
   ]
 }

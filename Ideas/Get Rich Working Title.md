@@ -12,7 +12,15 @@ Incremental
 	- Bioshock little girls
 	- Kid in hospital needs drugs, :(
 - Money printers are workers
-- 
+
+Simple Incremental Example:
+- Workers (+1 moneis /s)
+- Team Lead (+1 workers/s)
+- Managers (+1 team lead/s)
+- Executives (+1 )
+- Companies 
+- Monopolies
+- Brands
 
 
 ### Mini Games

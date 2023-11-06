@@ -22,6 +22,9 @@ Something like vampire survivors? Amount of enemies increasing in scale.
 
 An arena stick fight-like game where you try to blow up players that are balloons? Using air like weapons to explode them? Like the game Morphies Law. But 2D. ![[Pasted image 20231102142622.png]]![[Pasted image 20231102142038.png]]
 
-A pirate scavenger space game where you start with a skeleton ship, and raid other space ships. After winning you use the parts to increase the size of your ship. To the style of heat signature, but mechanics like robocraft.
+A pirate scavenger space game where you start with a skeleton ship, and raid other space ships. After winning you use the parts to increase the size of your ship. To the style of heat signature, but mechanics like terratech.
 ![[Pasted image 20231102142421.png]]![[Pasted image 20231102142552.png]]
 =======
+
+1v1 twin stick shooter where time gets slower the closer you are
+

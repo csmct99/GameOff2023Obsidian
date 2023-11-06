@@ -1,9 +1,39 @@
 
+# Title
+Working title: Get Rich
+
+# Technical Details
+
+Engine: Unity3D
+Space: 2D for now, move the office to 3D if possible later (polish)
+Sc: Github
 
 # Summary
 
-Game about amassing wealth
+Game about amassing wealth and the scaling joy your receive from wealth
 
+
+# Art Style
+
+2D Pixel art 
+A lot of UI art is needed, not much else.
+
+Prototype art: https://kenney.nl/assets
+
+Art lead: Noahhhhhh
+
+# SFX
+
+What we need:
+- Looping background tracks
+	- UI game
+	- Office themed? 
+	- Corperate theme?
+
+- Payoff SFX for buying shit, 
+	- 99% of the game is buying shit
+	- Make it addicting happy ding noise.
+	- Research dopamine firing buttons
 
 # Mechanics
 
@@ -22,7 +52,6 @@ Simple Incremental Example:
 - Monopolies
 - Brands
 
-
 ### Mini Games
 - Spec into different mini games
 - Get stock market mini game
@@ -32,7 +61,6 @@ Simple Incremental Example:
 - Proxy Wars ;)
 - Pong
 	- Getting hit on either side escalates the firing 
-
 
 ### Decision Cards
 
@@ -48,9 +76,6 @@ Frost punk-esque decision cards
 - Christmas
 	- Work hard
 	- day off
-- 
-
-
 
 
 

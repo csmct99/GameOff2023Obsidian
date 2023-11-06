@@ -1,4 +1,4 @@
 .obsidian/workspace.json
-.obsidian/plugins/make-md/Spaces.mdb
-.obsidian/*
-.obsidian/
+.obsidian/plugins/*
+.obsidian/appearance.json
+

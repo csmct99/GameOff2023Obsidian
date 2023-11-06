@@ -28,3 +28,33 @@ A pirate scavenger space game where you start with a skeleton ship, and raid oth
 
 1v1 twin stick shooter where time gets slower the closer you are
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Soundtrack + SFX Ideas:
+
+Main Menu: 
+	Vocal chant " OOOO MONEY" like Mettaton from Undertale "Oh yeah" or SMBM
+	Upbeat, Fast-Paced, High Energy 160-180BPM
+	Song Ref:
+		Xi - Zauberkugal 
+		Yu_asahina - Chain Prediciton
+
+Game Music:
+Try making secondary tracks to crossfade from in between game and pause menu
+
+Corpo Music:
+	

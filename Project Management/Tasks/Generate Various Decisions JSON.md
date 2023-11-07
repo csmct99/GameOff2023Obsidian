@@ -1,8 +1,8 @@
 ---
-Assignee: ""
+Assignee: Connor
 Priority: "2"
 Status: Open
-Category: Coding
+Category: Design
 ---
 
 # Description

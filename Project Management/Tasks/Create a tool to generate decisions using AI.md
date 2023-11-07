@@ -1,6 +1,6 @@
 ---
-Assignee: ""
-Priority: "2"
+Assignee: Connor
+Priority: "1"
 Status: Open
 Category: Coding
 ---

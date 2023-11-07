@@ -1,5 +1,5 @@
 ---
-Assignee: Nobody
+Assignee: ""
 Priority: "1"
 Status: Open
 Category: Coding

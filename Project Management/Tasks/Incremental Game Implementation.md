@@ -1,6 +1,6 @@
 ---
-Assignee: ""
-Priority: "2"
+Assignee:
+Priority: "0"
 Status: Open
 Category: Coding
 ---
